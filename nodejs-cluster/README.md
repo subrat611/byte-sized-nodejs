@@ -12,7 +12,7 @@
 
 # How to Implement Clustering in Node.js (Using Express)
 
-- [x] Check the `server.js` file
+- [x] Check the `without.js` & `with.js` file
 
 ## Explanation of Code:
 
