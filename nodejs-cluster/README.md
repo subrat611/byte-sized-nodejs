@@ -52,3 +52,17 @@ graph TD;
 - **Improves Application Availability:** If a worker crashes, others continue working.
 
 - **Handles More Requests:** With multiple workers, the server can handle more incoming traffic simultaneously.
+
+# Load Test
+
+## Without cluster
+
+**Time taken: 250.027 seconds**
+
+<img src="without.png" alt="without cluster loadtest result" />
+
+## With cluster
+
+**Time taken: 0.132 seconds**
+
+<img src="with.png" alt="with cluster loadtest result" />
